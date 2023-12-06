@@ -1,0 +1,11 @@
+{
+  "editor.tokenColorCustomizations": {
+    "[Solarized Dark]": {}
+
+  },
+  "editor.semanticTokenColorCustomizations": {
+    "[Solarized Dark]": {
+    
+    }
+  }
+}
